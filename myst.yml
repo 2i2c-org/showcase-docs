@@ -25,6 +25,8 @@ site:
   nav:
     - title: Home
       url: "/about"
+    - title: Hub
+      url: "https://showcase.2i2c.cloud"
   actions:
     - title: 2i2c
       url: https://2i2c.org
