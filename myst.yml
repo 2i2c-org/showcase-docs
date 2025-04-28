@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/2i2c-org/community-docs-template
+  github: https://github.com/2i2c-org/showcase-docs
   # To autogenerate a Table of Contents, run "jupyter-book init --write-toc"
   toc:
     - file: content/index.md
@@ -19,14 +19,12 @@ site:
     favicon: media/favicon.webp
     logo: media/logo-light.webp
     logo_dark: media/logo-dark.webp
-    logo_text: Community Docs Template
+    logo_text: 2i2c Showcase
     # Custom CSS stylesheet
     style: ./style.css
   nav:
     - title: Home
       url: "/about"
-    - title: Wikipedia
-      url: https://www.wikipedia.org/
   actions:
-    - title: Jupyter Book
-      url: https://next.jupyter-book.org
+    - title: 2i2c
+      url: https://2i2c.org
