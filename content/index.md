@@ -7,7 +7,7 @@ site:
 
 +++ {"kind": "split-image", "class": "alternate"}
 
-## 2i2c's Community Docs Template
+## 2i2c's Showcase
 
 ![](../media/card.svg)
 
