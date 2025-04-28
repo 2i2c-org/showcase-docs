@@ -53,3 +53,31 @@
     background-position: 200% 50%;
   }
 }
+
+/* Limit image size */
+.technology-icons img {
+  height: 4rem;
+}
+
+/* Ensure that images are centered along rows */
+.technology-icons .grid {
+  justify-items: center;
+}
+
+.technology-icons > * {
+  padding-top: 0rem !important;
+}
+
+/* Limit image size */
+.community-logos img {
+  height: 4rem;
+}
+
+/* Ensure that images are centered along rows */
+.community-logos .grid {
+  justify-items: center;
+}
+
+.community-logos .grid .rounded {
+  width: 95%;
+}

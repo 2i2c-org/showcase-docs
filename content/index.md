@@ -11,30 +11,77 @@ site:
 
 ![](../media/card.svg)
 
-A template for launching community documentation alongside 2i2c Jupyter Hubs.
+A 2i2c-deployed home for showcasing the work with our communities!
 
-{button}`Visit 2i2c.org →<https://2i2c.org/>`
+{button}`Visit our Hub →<https://showcase.2i2c.cloud/>`
 
-+++ { "kind": "centered", "class": "alternate"}
+<!--
 
-Community Documentation
++++ { "kind": "logo-cloud", "class": "community-logos" }
 
-## A Place to Share Knowledge
+::::{grid} 3 3 3 3
+:::{card}
+:url: https://nasa.gov
+![NASA logo](https://github.com/2i2c-org/2i2c-org.github.io/blob/main/static/images/logos/community/nasa.svg)
+:::
+:::{card}
+:url: https://www.si.edu/
+![Smithsonian logo](https://github.com/2i2c-org/2i2c-org.github.io/blob/main/static/images/logos/community/smithsonian.svg)
+:::
+:::{card}
+:url: https://www.hhmi.org/
+![Howard Hughes Medical Institute logo](https://github.com/2i2c-org/2i2c-org.github.io/blob/main/static/images/logos/community/howard-hughes-medical-institute.svg)
+:::
+:::{card}
+:url: https://ncas.ac.uk/
+![NCAS logo](https://github.com/2i2c-org/2i2c-org.github.io/blob/main/static/images/logos/community/ncas.png)
+:::
+:::{card}
+:url: https://pangeo.io/
+![Pangeo logo](https://github.com/2i2c-org/2i2c-org.github.io/blob/main/static/images/logos/community/pangeo.svg)
+:::
+:::{card}
+:url: https://www.utoronto.ca/
+![University of toronto logo](https://github.com/2i2c-org/2i2c-org.github.io/blob/main/static/images/logos/community/university-of-toronto.svg)
+:::
+:::{card}
+:url: https://columbia.edu/
+![Columbia University logo](https://github.com/2i2c-org/2i2c-org.github.io/blob/main/static/images/logos/community/columbia-university.png)
+:::
+::::
+
+-->
+
++++ { "kind": "centered" }
+
+Our Platform
+
+## A global network of community hubs for interactive learning and discovery
 
 {button}`Learn More →<https://2i2c.org/platform/>`
 
-Every community has its own story, and 2i2c believe that deploying a place to share knowledge adjacent to the place that it is created is a fundamental part of facilitating that story.
+We help communities build their own interactive computing hub in the cloud with open infrastructure. Our Showcase hub is a place to celebrate these communities, and demonstrate the benefit of building and using open infrastructure.
 
 > Interactive computing hubs provide access to standardized workflows that make it easier for community members to teach and share with one another, and to enhance their work together.
 >
 > -- [2i2c's Mission Statement](https://2i2c.org/mission/)
 
-+++ { "kind": "centered", "class": "alternate"}
++++ { "kind": "logo-cloud", "class": "technology-icons" }
 
-Using this template
+:::::{grid} 2 2 3 3
 
-## How Do I Get Started?
+:::{image} https://jupyter.org/assets/homepage/main-logo.svg
+:::
+:::{image} https://jupyter.org/assets/homepage/hublogo.svg
+:::
+:::{image} https://jupyter.org/assets/logos/binder.svg
+:::
+:::{image} https://github.com/jupyter-book/mystmd.org/blob/main/content/public/logo.svg
+:::
+:::{image} https://github.com/jupyter-book/jupyter-book/blob/next/docs/media/images/logo.svg
+:::
+:::{image} https://github.com/jupyter-book/thebe/blob/main/apps/simple/static/thebe_wide_logo.png
+:::
+:::::
 
-[This GitHub repository][repo] provides a one-click solution for starting your journey toward building a flourishing home for your communities best-practices, novel findings, and collective understanding. You can use GitHub's {kbd}`Use this template` button
-
-[repo]: https://github.com/2i2c-org/community-docs-template
+{button}`Our Committment to Open Technology → <https://2i2c.org/open-technology/>`
